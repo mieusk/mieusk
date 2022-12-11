@@ -1,10 +1,10 @@
-### E aí, minhe linde.
+### E aí, amor.
 
-Nos títulos dos meus repositórios, há um prefixo a fim de definir o desenvolvimento dos scripts, veja a legenda:
+Nos títulos dos meus repositórios, há um prefixo a fim de definir qual é o seu nível de desenvolvimento, veja a legenda:
 
 a_ para repositórios funcionais e completos; 
-b_ para repositórios em construção ou que são malfeitos; 
-c_ para repositórios abandonados e sem previsão de manutenção. 
+b_ para repositórios que são malfeitos; 
+c_ para repositórios abandonados e sem previsão de manutenção;
+x_ para repositórios em construção.
 
-Utilizo o GitHub apenas para armazenar alguns scripts.
-Programação, para mim, é só um passatempo; não sou profissional e só tenho um conhecimento básico em Lua.
+Utilizo o GitHub só para armazenar alguns scripts. Programação, para mim, é um passatempo; não sou profissional e só tenho um conhecimento básico em Lua e Python.
