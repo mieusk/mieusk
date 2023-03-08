@@ -11,10 +11,10 @@ Abaixo, colocarei uma listagem das ferramentas que uso, o status do meu Discord 
     <th><b>Informação<b></th>
   </tr>
   <tr>
-    <td><p align="center"><img src="https://dic.academic.ru/pictures/wiki/files/76/Lua-logo-nolabel.svg" width="48"/>
-    <br><img src="https://avatars.githubusercontent.com/u/1202929" width="48"/>
-    <br><img src="https://opensource.com/sites/default/files/styles/panopoly_image_original/public/images/life-uploads/love.png" width="48"/>
-    <br><img src="https://cdn.discordapp.com/attachments/725881758192762891/1083103551410143273/28658472_1.svg" width="48"/></p></td>
+    <td><p align="center"><a href="https://luajit.org"><img src="https://dic.academic.ru/pictures/wiki/files/76/Lua-logo-nolabel.svg" width="48"/></a>
+    <br><a href="https://luvit.io/"><img src="https://avatars.githubusercontent.com/u/1202929" width="48"/></a>
+    <br><a href="https://love2d.org/"><img src="https://opensource.com/sites/default/files/styles/panopoly_image_original/public/images/life-uploads/love.png" width="48"/></a>
+    <br><a href="https://fengari.io/"><img src="https://cdn.discordapp.com/attachments/725881758192762891/1083103551410143273/28658472_1.svg" width="48"/></a></p></td>
     <td>
     <img src="https://discord-readme-badge.vercel.app/api?id=520728616103837706" width="300"/>
     <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mieusk&layout=compact&theme=apprentice&hide_border=true&bg_color=1e2124&card_width=384&line_height=40" width="300"/></td>
