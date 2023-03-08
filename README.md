@@ -23,9 +23,11 @@ Abaixo, colocarei uma listagem das ferramentas que uso, o status do meu Discord 
 
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Projects+that+I%27ve+made"/></p></h1>
 
-WIP
+WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP
 
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Contact+me+through+Discord"/></p></h1>
 
-Quer falar comigo? Bater um papo? Trabalhar junto ou me contratar? Não hesite, me chame no Discord: `flamma#0050`
+Quer falar comigo? Bater um papo? Trabalhar junto? Me contratar? Estou disponível no Discord, me contate: `flamma#0050`
+<br>
+Ou entre no meu servidor: https://discord.gg/jgkMZrCWVf
 <br>Estou disponível para todes! 😺
