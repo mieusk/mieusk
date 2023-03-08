@@ -29,5 +29,4 @@ WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
 
 Quer falar comigo? Bater um papo? Trabalhar junto? Me contratar? Estou disponível no Discord, me chame: `flamma#0050`
 <br>
-Ou entre no meu servidor: https://discord.gg/jgkMZrCWVf
-<br>Estou disponível para todes! 😺
+Ou entre no meu servidor: https://discord.gg/jgkMZrCWVf 😺
