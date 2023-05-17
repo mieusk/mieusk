@@ -2,9 +2,9 @@
 
 E aí, caro visitante. Sou estudante de Ciência da Informação e programador Lua. Além de um bom programador, sou excelente em traduzir, revisar e corrigir produções textuais.
 
-Main:
-> WebDev
-> API & automatização
+Main: <br>
+> WebDev <br>
+> API & automatização <br>
 > Análise de dados
 
 Abaixo, colocarei uma lista das ferramentas que uso, o status do meu Discord (que contém em tempo real o que estou fazendo no meu computador) e o status do meu GitHub:
