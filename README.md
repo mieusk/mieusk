@@ -25,7 +25,8 @@ WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
 
       
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Look+for+me+to..."/></p></h1>
-> WebDev <br>
+
+> Web & Mobile Dev <br>
 > APIs & automatização <br>
 > Análise de dados <br>
 > Tradução, revisão e correção textual
