@@ -1,6 +1,6 @@
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Mieusk%2C+a+guy+with+advanced+Lua+skills"/></p></h1>
 
-E aí! Você caiu no perfil de um estudante de Ciência da Informação (FFCL USP) e programador usuário de Lua (só manjo essa linguagem). Estou disponível para qualquer tipo de contato (me chama, por favor); se quiser falar comigo, fique à vontade.
+E aí! Você caiu no perfil de um estudante de Ciência da Informação (FFCL-USP) e programador usuário de Lua (só manjo essa linguagem). Estou disponível para qualquer tipo de contato (me chama, por favor); se quiser falar comigo, fique à vontade.
 
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=My+stats"/></p></h1>
 <table border="0" align="center">
