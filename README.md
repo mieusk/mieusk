@@ -1,11 +1,8 @@
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Mieusk%2C+a+guy+with+advanced+Lua+skills"/></p></h1>
 
-<p align="center">Estudante de Ciência da Informação</p>
+E aí. Você caiu no perfil de um Estudante de Ciência da Informação.
 
-> WebDev <br>
-> API & automatização <br>
-> Análise de dados <br>
-
+Veja as ferramentas que uso e meus status:
 
 <table border="0" align="center">
   <tr>
@@ -23,7 +20,13 @@
   </tr>
 </table>
       
-Além de um bom programador, sou excelente em traduzir, revisar e corrigir produções textuais.
+      
+Procure-me para:
+      
+> WebDev <br>
+> APIs & automatização <br>
+> Análise de dados <br>
+> Tradução, revisão e correção textual
 
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Projects+that+I%27ve+made"/></p></h1>
 
