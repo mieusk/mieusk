@@ -1,7 +1,11 @@
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Mieusk%2C+a+guy+with+advanced+Lua+skills"/></p></h1>
 
-E aí, caro visitante. Sou estudante de Ciência da Informação e programador Lua que manja de APIs, automatização, web-sites interativos e jogos (APKs e EXEs).
-Além de um bom programador, sou excelente em traduzir, revisar e corrigir produções textuais.
+E aí, caro visitante. Sou estudante de Ciência da Informação e programador Lua. Além de um bom programador, sou excelente em traduzir, revisar e corrigir produções textuais.
+
+Main:
+> WebDev
+> API & automatização
+> Análise de dados
 
 Abaixo, colocarei uma lista das ferramentas que uso, o status do meu Discord (que contém em tempo real o que estou fazendo no meu computador) e o status do meu GitHub:
 
