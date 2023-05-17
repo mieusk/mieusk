@@ -1,8 +1,8 @@
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Mieusk%2C+a+guy+with+advanced+Lua+skills"/></p></h1>
 
-E aí. Você caiu no perfil de um Estudante de Ciência da Informação.
+E aí, você caiu no perfil de um Estudante de Ciência da Informação. Sou um programador que usa Lua como linguagem de programação principal (só manjo ela) e estou disponível e aberto para qualquer tipo de negócio. Chame-me no Discord para qualquer coisa.
 
-Veja as ferramentas que uso e meus status:
+<h1><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&width=435&lines=My+Stats"/></p></h1>
 
 <table border="0" align="center">
   <tr>
@@ -21,7 +21,7 @@ Veja as ferramentas que uso e meus status:
 </table>
       
       
-Procure-me para:
+<h1><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&width=435&lines=Look+for+me+to..."/></p></h1>
       
 > WebDev <br>
 > APIs & automatização <br>
