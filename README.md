@@ -2,7 +2,7 @@
 
 E aí, você caiu no perfil de um Estudante de Ciência da Informação. Sou um programador que usa Lua como linguagem de programação principal (só manjo ela) e estou disponível e aberto para qualquer tipo de negócio. Chame-me no Discord para qualquer coisa.
 
-<h1><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&width=435&lines=My+Stats"/></p></h1>
+<h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=My+stats"/></p></h1>
 <table border="0" align="center">
   <tr>
     <th><b>Ferramentas<b></th>
@@ -23,7 +23,8 @@ E aí, você caiu no perfil de um Estudante de Ciência da Informação. Sou um 
 
 WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP
 
-<h1><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&width=435&lines=Look+for+me+to..."/></p></h1>
+      
+<h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Look+for+me+to..."/></p></h1>
 > WebDev <br>
 > APIs & automatização <br>
 > Análise de dados <br>
