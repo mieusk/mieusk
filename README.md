@@ -3,7 +3,6 @@
 E aí, você caiu no perfil de um Estudante de Ciência da Informação. Sou um programador que usa Lua como linguagem de programação principal (só manjo ela) e estou disponível e aberto para qualquer tipo de negócio. Chame-me no Discord para qualquer coisa.
 
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&width=435&lines=My+Stats"/></p></h1>
-
 <table border="0" align="center">
   <tr>
     <th><b>Ferramentas<b></th>
@@ -19,19 +18,17 @@ E aí, você caiu no perfil de um Estudante de Ciência da Informação. Sou um 
     <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mieusk&layout=compact&theme=apprentice&hide_border=true&bg_color=1e2124&card_width=384&line_height=40" width="300"/></td>
   </tr>
 </table>
-      
-      
-<h1><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&width=435&lines=Look+for+me+to..."/></p></h1>
-      
-> WebDev <br>
-> APIs & automatização <br>
-> Análise de dados <br>
-> Tradução, revisão e correção textual
 
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Projects+that+I%27ve+made"/></p></h1>
 
 WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP
 
+<h1><p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&width=435&lines=Look+for+me+to..."/></p></h1>
+> WebDev <br>
+> APIs & automatização <br>
+> Análise de dados <br>
+> Tradução, revisão e correção textual
+      
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Contact+me+through+Discord"/></p></h1>
 
 Quer falar comigo? Bater um papo? Trabalhar junto? Me contratar? Estou disponível no Discord, me chame: `flamma#0050`
