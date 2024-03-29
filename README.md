@@ -6,5 +6,5 @@ Programador Lua de baixo nível. Desenvolvedor Web. Estudante. Poliglota: 🇧�
 
 <h1><p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=3807F7&center=true&vCenter=true&width=650&height=34&lines=Habe+ich+ein+Portifolio?"/></p></h1>
 
-Veja meus repositórios. Sou capaz de produzir sites, bots e APIs complexos; traduzir com proeficiência entre a língua inglesa e portuguesa & criar textos detalhados e organizados. Você pode falar comigo pelo meu discord: `@flamua` ou pelo meu e-mail: `kyopw@vivaldi.net`<br>
+Veja meus repositórios. Sou capaz de produzir sites, bots e APIs complexos; traduzir com proeficiência entre a língua inglesa e portuguesa & criar textos detalhados e organizados. Você pode falar comigo pelo meu discord: `@yflm2` ou pelo meu e-mail: `kyopw@vivaldi.net`<br>
 Ou entre no meu servidor: https://discord.gg/jgkMZrCWVf
