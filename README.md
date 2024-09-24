@@ -1,6 +1,6 @@
 <a href="http://lua.org"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" height="28"/></a>
 
-Programador Lua de baixo nível. Desenvolvedor Web. Estudante. Poliglota: 🇧🇷, 🇺🇸, 🇪🇸, 🇩🇪. Apaixonado por piano, culinária, filmes e gatos. Este sou eu.
+Programador Lua. Desenvolvedor Web. Estudante. Apaixonado por Muse, culinária, filmes antigos e gatos. 🇧🇷, 🇺🇸, 🇪🇸, 🇩🇪
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mieusk&layout=compact&theme=apprentice&hide_border=true&bg_color=1e2124&card_width=384&line_height=40" width="300"/>
 
