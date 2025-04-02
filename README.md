@@ -5,12 +5,11 @@
 <a href="https://luvit.io/"><img src="https://img.shields.io/badge/Luvit-262626?style=for-the-badge&logo=lua&logoColor=white" height="28"/></a>
 <a href="https://github.com/luvitrocks/utopia"><img src="https://img.shields.io/badge/Utopia-00897B?style=for-the-badge&logo=lua&logoColor=white" height="28"/></a>
 ![WebDev](https://img.shields.io/badge/WebDev-F16529?style=for-the-badge&logo=html5&logoColor=white)
-
 <br>
 Longa experiência em programar em Lua, desenvolver websites, escrever, fazer pesquisas e análisar dados. Estudante. Profissional.
-<br>
+<br><br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mieusk&layout=compact&theme=apprentice&hide_border=true&bg_color=1e2124&card_width=384&line_height=40" width="300"/></p>
-
+<br>
 Apaixonado por Muse, culinária, filmes antigos e gatos. 🇧🇷, 🇺🇸, 🇪🇸, 🇩🇪
 
 Contate-me no meu e-mail: `uskpp@ya.ru`
