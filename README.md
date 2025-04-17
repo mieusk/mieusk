@@ -28,7 +28,7 @@
 I’m a dedicated developer and researcher with **over five years** of hands‑on experience in:
 
 - **JavScript and Lua**: building performant scripts, APIs, and lightweight applications.
-- **Web development**: crafting responsive websites with HTML5, JavaScript (ES6+), and Node.js.
+- **Web development**: crafting responsive websites with HTML5 and Node.js.
 - **Data analysis & research**: collecting, cleaning, and interpreting datasets to support academic and professional projects. I'm not talking only about programming, but about the knowledge of reading a data and knowing exactly what that means.
 - **Technical writing**: producing clear documentation, articles, and code samples for both peers and end users.
 
