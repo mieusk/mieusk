@@ -47,7 +47,7 @@ Currently a student and researcher fellow at the University of São Paulo — wi
 ## Interests
 
 - 🎵 Rock and alternative music
-- 🍴 I like to cook, and I just love Japanese food. 
+- 🍴 I like to cook, and I just love Japanese food
 - 🎞 Pretty fan of classic movies  
 - 😺 My life have no sense without cats
 
