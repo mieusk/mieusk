@@ -6,14 +6,9 @@
   <a href="http://lua.org">
     <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" height="28"/>
   </a>
-  <a href="https://github.com/fengari-lua/fengari-web">
-    <img src="https://img.shields.io/badge/Fengari-5C4EE5?style=for-the-badge&logo=lua&logoColor=white" alt="Fengari" height="28"/>
-  </a>
+  
   <a href="https://luvit.io/">
     <img src="https://img.shields.io/badge/Luvit-262626?style=for-the-badge&logo=lua&logoColor=white" alt="Luvit" height="28"/>
-  </a>
-  <a href="https://github.com/luvitrocks/utopia">
-    <img src="https://img.shields.io/badge/Utopia-00897B?style=for-the-badge&logo=lua&logoColor=white" alt="Utopia" height="28"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28"/>
