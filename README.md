@@ -37,7 +37,7 @@ I’m a dedicated developer and researcher with **over five years** of hands‑o
 - **Data analysis & research**: collecting, cleaning, and interpreting datasets to support academic and professional projects. I'm not talking only about programming, but about the knowledge of reading a data and knowing exactly what that means.
 - **Technical writing**: producing clear documentation, articles, and code samples for both peers and end users.
 
-Currently a student and self‑taught engineer, I combine academic rigor with real‑world practice to solve complex problems and deliver robust solutions.
+Currently a student and researcher fellow at the University of São Paulo — widely recognized as the leading institution in Latin America and among Portuguese-speaking countries.
 
 ---
 
