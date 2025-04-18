@@ -39,7 +39,7 @@ Currently a student and researcher fellow at the University of São Paulo — wi
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mieusk&layout=compact&theme=apprentice&hide_border=true&bg_color=0e2124&card_width=384&line_height=40" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mieusk&layout=compact&theme=apprentice&hide_border=true&bg_color=1e2124&card_width=384&line_height=40" alt="Top Languages" width="300"/>
 </p>
 
 ---
