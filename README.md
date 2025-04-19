@@ -32,7 +32,7 @@ Hi, I'm Mieusk — a passionate full-stack developer and data researcher with ov
 - 🎬 Classic film nerd — from Hitchcock to Kubrick  
 - 😺 Cat lover, always and forever
 
-🌍 Languages: Portuguese · English · Spanish · German
+🌍 Languages: Portuguese (N) · English (C1) · Spanish (B1) · German (A2)
 
 ---
 
