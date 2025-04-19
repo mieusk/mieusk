@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi, I'm Mieusk — a curious and passionate full-stack developer and data researcher with over 5 years of experience crafting solutions through code, data, and communication.
+Hi, I'm Mieusk — a curious, passionate full-stack developer and data researcher with over 5 years of experience crafting solutions through code, data, and communication.
 
 
 ### What I Do
