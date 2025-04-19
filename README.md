@@ -9,7 +9,7 @@ Hi, I'm Mieusk — a curious, passionate full-stack developer and data researche
 ### What I Do
 
 - **Full-stack Development**  
-  Using JavaScript (Node.js) and Lua (Luvit/LuaJIT), I build dynamic websites, RESTful APIs, web scrapers, and automation scripts.
+  Using JavaScript (Node.js) and Lua (Luvit/LuaJIT), I build dynamic websites, RESTful APIs, web scrapers, bots, and automation scripts.
 
 - **Data Analysis & Visualization**  
   Skilled in collecting, cleaning, interpreting, and visualizing data to support both academic research and real-world applications.
