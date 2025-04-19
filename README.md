@@ -20,7 +20,7 @@ Hi, I'm Mieusk — a passionate full-stack developer and data researcher with ov
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mieusk&layout=compact&theme=apprentice&hide_border=true&bg_color=1e2124&card_width=485&line_height=200" alt="Top Languages" width="490"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mieusk&layout=compact&theme=apprentice&hide_border=true&bg_color=1e2124&card_width=485&line_height=680" alt="Top Languages" width="490"/>
 </p>
 
 ---
