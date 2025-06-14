@@ -18,7 +18,7 @@ Hi, I'm Mieusk — a curious, passionate full-stack developer and data researche
   I write documentation and translate projects with precision, ensuring accessibility across languages and audiences.
 
 🎓 Currently, I’m a research fellow at the **University of São Paulo (USP)** — the top-ranked university in Latin America and Portuguese-speaking countries.
-I currently have two websites: lirico.xyz (which I made some tests) and agenda-beta.up.railway.app (a personal project under construction).
+I currently have two websites: [lirico.xyz](https://lirico.xyz) (which I made some tests) and [agenda-beta.up.railway.app](https://agenda-beta.up.railway.app) (a personal project under construction).
 
 ## Stats
 
